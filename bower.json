@@ -1,0 +1,28 @@
+{
+  "name": "horizontal-timeline",
+  "authors": [
+    "doanthai96 <doanthai96@gmail.com>"
+  ],
+  "description": "timeline",
+  "main": "js css",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "thai"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
