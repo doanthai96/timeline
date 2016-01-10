@@ -1,23 +1,16 @@
 {
-  "name": "horizontal-timeline",
+  "name": "timeline",
+  "homepage": "https://github.com/doanthai96/timeline",
   "authors": [
     "doanthai96 <doanthai96@gmail.com>"
   ],
-  "description": "timeline",
-  "main": "js css",
-  "moduleType": [
-    "amd",
-    "es6",
-    "globals",
-    "node",
-    "yui"
-  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
   "keywords": [
-    "thai"
+    "thia"
   ],
   "license": "MIT",
-  "homepage": "",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
