@@ -4,11 +4,11 @@
   "authors": [
     "doanthai96 <doanthai96@gmail.com>"
   ],
-  "description": "",
-  "main": "",
+  "description": "noen",
+  "main": "timeline.js, jquery.mobile.custom.min.js",
   "moduleType": [],
   "keywords": [
-    "thia"
+    "thai"
   ],
   "license": "MIT",
   "ignore": [
