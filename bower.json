@@ -1,15 +1,12 @@
 {
   "name": "timeline",
+  "main": "./timeline.js",
   "homepage": "https://github.com/doanthai96/timeline",
   "authors": [
     "doanthai96 <doanthai96@gmail.com>"
   ],
-  "description": "noen",
-  "main": "timeline.js", "jquery.mobile.custom.min.js",
+  "description": "None",
   "moduleType": [],
-  "keywords": [
-    "thai"
-  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -17,8 +14,5 @@
     "bower_components",
     "test",
     "tests"
-  ],
-  "dependencies": {
-    "timeline": "~2.29.1"
-  }
+  ]
 }
