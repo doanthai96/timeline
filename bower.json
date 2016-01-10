@@ -5,7 +5,7 @@
     "doanthai96 <doanthai96@gmail.com>"
   ],
   "description": "noen",
-  "main": "timeline.js, jquery.mobile.custom.min.js",
+  "main": "timeline.js", "jquery.mobile.custom.min.js",
   "moduleType": [],
   "keywords": [
     "thai"
